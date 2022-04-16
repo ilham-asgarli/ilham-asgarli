@@ -1,6 +1,6 @@
 ### :fire: My Stats :
 
-<div id="header" align="center">
+<div align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilham-asgarli&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
