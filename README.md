@@ -5,7 +5,7 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ilham-asgarli)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <div align="center">
-  <img align="center" style="pointer-events: none;" src="http://github-readme-streak-stats.herokuapp.com?user=ilham-asgarli&theme=dark" />
+  <img align="center" style="pointer-events: none; user-select: none;" src="http://github-readme-streak-stats.herokuapp.com?user=ilham-asgarli&theme=dark" />
 </div>
 
 <br>
