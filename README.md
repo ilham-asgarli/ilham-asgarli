@@ -11,13 +11,13 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-asgarli&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilham-asgarli" />
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilham-asgarli" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-asgarli&layout=compact" />
 </div>
 
 <br>
