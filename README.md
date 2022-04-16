@@ -1,7 +1,6 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilham-asgarli&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-asgarli)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-asgarli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's ](https://github-readme-stats.vercel.app/api?username=ilham-asgarli)](https://github.com/anuraghazra/github-readme-stats)
 
