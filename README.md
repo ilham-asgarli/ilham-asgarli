@@ -4,9 +4,10 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-asgarli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ilham-asgarli)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-asgarli&layout=compact" />
-</a>
+</div>
+
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilham-asgarli" />
 </div>
