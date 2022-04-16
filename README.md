@@ -1,8 +1,12 @@
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilham-asgarli&theme=dark)](https://git.io/streak-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-asgarli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilham-asgarli&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-asgarli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ilham-asgarli)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<div align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ilham-asgarli&theme=dark" />
+</div>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-asgarli&layout=compact" />
