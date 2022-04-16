@@ -53,5 +53,5 @@
 </div>
 
 <div id="viewer-count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilham-asgarli&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ilham-asgarli&style=flat-square&color=blue" alt="View Count"/>
 </div>
